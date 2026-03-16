@@ -32,7 +32,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 - Data Analytics
 
 ## 🚀 Project Requirements
-Building the Data Warehouse (Data Engineering)**
+Building the Data Warehouse (Data Engineering)
 
 **Objective**
 
